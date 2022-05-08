@@ -11,6 +11,8 @@ Laravel 8.83.10, PHP 7.3-8.1
 
 ##installation
 
+Please run composer install
+
 Change the env.example to .env once you clone the project
 
 Chanage the APP_URL according to your folder name
